@@ -1,9 +1,12 @@
-
+import Dipesh from "./dipesh"
 
 function App() {
 
   return (
-    <h1>React with vite | Dipesh Shrestha</h1>
+    <> //freagment
+      <Dipesh />
+      <h1>React with dipesh</h1>
+    </>
   )
 }
 
