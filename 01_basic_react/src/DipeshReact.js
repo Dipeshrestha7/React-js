@@ -1,6 +1,6 @@
 function Dipesh(){
     return(
-        <h1>Shall we start our corse??</h1>
+        <h1>Shall we start our course??</h1>
     )
 }
 
