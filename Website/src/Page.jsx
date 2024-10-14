@@ -1,14 +1,12 @@
 import React from "react";
 
-function Page(){
+function Page() {
     return(
-        <>
-            <div>
-                <a href="About">About</a>
-                <a href="">Cources</a>
-                <a href=">Login</a>
-            </div>
-        </>
+        <div className="bg-green-500 flex items-center justify-center ">
+        <a href="/About">About</a>
+        <a href="/Cources">Cources</a>
+        <a href="/Login">Login</a>
+        </div>
     )
 }
     export default Page
